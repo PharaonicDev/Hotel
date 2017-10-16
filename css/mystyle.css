@@ -1,0 +1,13 @@
+@media screen and (max-width:600px) {
+    .topnav a {
+        display: inline-block
+    }
+    .navbar li:not(.opennav) {
+        float: left;
+        width: 20%!important
+    }
+    .navbar li.right {
+        float: none!important
+    }
+ 
+}
